@@ -18,6 +18,8 @@ _VGG16 architecture example_
 
 The architecture of the developed model is based on the VGGNet model, specifically the VGG16 model. VGGNet, a specific type of convolutional architecture highly recommended for image classification. The technique described above has been applied as transfer learning. Therefore, the original architecture of VGG16 has been modified architecture of VGG16 has been modified to adapt it to the problem at hand.
 
+# Project report
+Link to the UPM digital archive where you can find the complete project report with additional technical information. --> [Use of a convolutional neural network for melanoma cancer detection - UPM Digital Archive](https://oa.upm.es/71361/)
 
 ## Final degree project - Software Engineering Degree (UPM)
 Repository to host the code and the memory of the final project of the degree in software engineering at the Higher Technical School of Computer Systems Engineering [ETSISI](https://www.etsisi.upm.es/) of the Polytechnic University of Madrid [UPM](https://www.upm.es/internacional/UPM/Historical%20Summary).
